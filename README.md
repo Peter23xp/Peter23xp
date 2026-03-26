@@ -38,7 +38,7 @@ I blend rigorous engineering practices with strategic business intuition to buil
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Peter23xp&show_icons=true&theme=radical&hide_border=true" alt="Peter's GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Peter23xp&theme=radical&hide_border=true" alt="Peter's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Peter23xp&theme=radical&hide_border=true" alt="Peter's GitHub Streak" />
 </p>
 
 ## 📫 Get in Touch
