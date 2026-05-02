@@ -12,7 +12,7 @@ I blend rigorous engineering practices with strategic business intuition to buil
 - 🏢 **Roles:** Software Engineer & Business Architect
 - 🌱 **Specializations:** Web3, Smart Contracts & High-Performance Web Architectures
 - 💼 **Open to Work:** Searching for 2027 Internship opportunities!
-- 🌐 **My Portfolio:** [peter-portfolio-rho.vercel.app](https://peter-portfolio-rho.vercel.app/)
+- 🌐 **My Portfolio:** [peterakilimali.site](https://peterakilimali.site/)
 
 ## 🛠️ My Tech Stack
 
