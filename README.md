@@ -2,6 +2,10 @@
 <h3 align="center">Full-Stack Engineer · Web3 · Next.js · Based in Rwanda 🇷🇼</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D4AF37&center=true&width=500&lines=Full-Stack+Engineer+%7C+Next.js+%7C+React;Web3+%7C+Solidity+%7C+Smart+Contracts;Open+to+2027+Internship+Opportunities" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://peterakilimali.site">
     <img src="https://img.shields.io/badge/Portfolio-peterakilimali.site-d4af37?style=flat-square&logo=vercel&logoColor=white" />
   </a>
@@ -70,8 +74,12 @@ I focus on shipping things that actually work in production — from architectur
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Peter23xp&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Peter23xp&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Peter23xp&theme=radical" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Peter23xp&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Peter23xp&theme=radical" width="32%" />
+  <img src="https://streak-stats.demolab.com/?user=Peter23xp&theme=radical&hide_border=true" width="32%" />
 </p>
 
 ---
