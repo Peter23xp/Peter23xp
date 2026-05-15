@@ -1,49 +1,89 @@
-# Hi there, I'm Peter Akilimali! 👋
+<h1 align="center">Peter Akilimali</h1>
+<h3 align="center">Full-Stack Engineer · Web3 · Next.js · Based in Rwanda 🇷🇼</h3>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes">
+  <a href="https://peterakilimali.site">
+    <img src="https://img.shields.io/badge/Portfolio-peterakilimali.site-d4af37?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://streaming.peterakilimali.site">
+    <img src="https://img.shields.io/badge/Project-StreamVF-d4af37?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/peter-akilimali-1a7016282/">
+    <img src="https://img.shields.io/badge/LinkedIn-Peter_Akilimali-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:peter23xp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-peter23xp@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-## 🚀 About Me
-I'm a **Software Engineering Student** from Goma (DRC) currently based in Gisenyi (Rwanda), preparing for my **2027 Internship**.
-I blend rigorous engineering practices with strategic business intuition to build solutions that are not only performant but also capable of scaling and generating profit.
+---
 
-- 🎓 **Currently Studying:** Software Engineering at ULK (Kigali)
-- 🏢 **Roles:** Software Engineer & Business Architect
-- 🌱 **Specializations:** Web3, Smart Contracts & High-Performance Web Architectures
-- 💼 **Open to Work:** Searching for 2027 Internship opportunities!
-- 🌐 **My Portfolio:** [peterakilimali.site](https://peterakilimali.site/)
+## About
 
-## 🛠️ My Tech Stack
+Software Engineering student at **ULK Kigali**, building full-stack web products and exploring Web3.
+I focus on shipping things that actually work in production — from architecture to deployment.
 
-### Languages & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-</p>
+- 🎓 Software Engineering @ ULK (Kigali) — targeting **2027 internship**
+- 🔭 Currently building: full-stack streaming platform with Next.js 16 + PostgreSQL
+- 🌱 Learning: smart contracts (Solidity), distributed systems
+- 🌍 From Goma, DRC · Based in Gisenyi, Rwanda
 
-### Databases & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-</p>
+---
 
-## 📊 My GitHub Stats
+## Featured Project
+
+### [StreamVF](https://streaming.peterakilimali.site) — Streaming Platform
+> Full-stack VF/VOSTFR streaming site. Search, watch, and manage a watchlist of films and series.
+
+| | |
+|---|---|
+| **Stack** | Next.js 16, React 19, Tailwind CSS 4, PostgreSQL, Prisma, NextAuth v5 |
+| **Data** | TMDB API — thousands of films & series |
+| **Auth** | Google OAuth + magic link email |
+| **Deploy** | Vercel + custom domain + SEO (JSON-LD, sitemap) |
+
+🔗 [streaming.peterakilimali.site](https://streaming.peterakilimali.site) · [Source](https://github.com/Peter23xp/streaming)
+
+---
+
+## Tech Stack
+
+**Languages & Frameworks**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+**Databases & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Peter23xp&show_icons=true&theme=radical&hide_border=true" alt="Peter's GitHub Stats" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=Peter23xp&theme=radical&hide_border=true" alt="Peter's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Peter23xp&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Peter23xp&theme=radical&hide_border=true" width="48%" />
 </p>
 
-## 📫 Get in Touch
-<p align="left">
-  <a href="mailto:peter23xp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/peter-akilimali-1a7016282/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://wa.me/243902238740"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+---
+
+<p align="center">
+  <a href="https://wa.me/243902238740">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/peter-akilimali-1a7016282/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:peter23xp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
